@@ -84,7 +84,7 @@ if (source_loc == "Bhubaneswar" && destin_loc == "Kolkata") {
 else {
   document.getElementById("flightTable").style.visibility = "hidden";
   const msgInfo = document.createElement("h2");
-  msgInfo.textContent = "No Flights Available for this route";
+  msgInfo.textContent = "Please select proper flight source and destination.";
   const msgArea = document.getElementById("table_display");
   msgArea.append(msgInfo);
 }
