@@ -9,7 +9,7 @@
 <h4 align="center">Fly with us and experience a world of comfort and convenience.</h4>
 
 
-<div style="text-align:center">
+<div align="center">
     <a href = "https://en.wikipedia.org/wiki/HTML">
         <img src = "https://img.shields.io/badge/HTML-HTML5-orange" alt = "HTML" />
     </a>
