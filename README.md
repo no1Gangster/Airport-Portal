@@ -71,8 +71,8 @@ Welcome to our website! We are dedicated to providing you with a seamless and co
 ## Sign in/Sign Up
 
 <div style = "display:flex; flex-direction:row; flex-wrap:wrap;">
-    <img src = "./images/signin-ss.png" alt = "Sign-in Box" style = "width:50%">
-    <img src = "./images/signup-ss.png" alt = "Sign-up Box" style = "width:50%">
+    <img src = "./images/signin-ss.png" alt = "Sign-in Box" style = "width:45%">
+    <img src = "./images/signup-ss.png" alt = "Sign-up Box" style = "width:45%">
 </div>
 
 <p>
